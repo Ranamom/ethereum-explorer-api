@@ -14,9 +14,9 @@ var config ={
           name:"Ropsten Network",
           url:"https://ropsten.infura.io/v3/"         + INFURA_TOKEN
        },
-       "KOVAN":{  
-            name:"Kovan Network",
-            url:"https://kovan.infura.io/v3/"         + INFURA_TOKEN
+       "Sepolia":{  
+            name:"Sepolia Network",
+            url:"https://sepolia.infura.io/v3/"         + INFURA_TOKEN
         },
         "RINKEBY":{  
             name:"Rinkeby Network",
